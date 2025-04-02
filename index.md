@@ -6,3 +6,7 @@ def greet():
     print("Hello, world!")
 
 greet()
+```
+- [ ] Activar GitHub Pages
+- [ ] Esquematizar mi portafolio
+- [ ] Presentarme al mundo
